@@ -3,7 +3,7 @@ import "./SideBar.css";
 
 function SideBar() {
   return (
-    <div className="side-container">
+    <section className="side-container">
       <section className="side">
         <a className="side-items"> SNU CLS 21 </a>
         <a className="side-items"> Major in Computer Science and Mathematics </a>
@@ -13,7 +13,7 @@ function SideBar() {
         <a className="side-items"> Last update: 2023.02.09 </a>
       </section>
       <div className="side-div-line"/>
-    </div>
+    </section>
   );
 }
   
