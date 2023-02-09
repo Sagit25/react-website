@@ -22,7 +22,7 @@ function App() {
             <Route path="/cv" element={<CV />}/>
             <Route path="/note" element={<Note />} />
             <Route path="/txt" element={<TXT />} />
-            <Route path="*" element={<Navigate to="/"/>} />
+            <Route path="*" element={<Navigate to="/" />} />
           </Routes>
         </section>
       </Router>
