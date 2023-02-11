@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-sebsite/static/css/main.3d1e72e7.chunk.css",
-  "main.js": "/react-sebsite/static/js/main.8a75028a.chunk.js",
-  "main.js.map": "/react-sebsite/static/js/main.8a75028a.chunk.js.map",
-  "static/js/1.54087e17.chunk.js": "/react-sebsite/static/js/1.54087e17.chunk.js",
-  "static/js/1.54087e17.chunk.js.map": "/react-sebsite/static/js/1.54087e17.chunk.js.map",
-  "static/js/2.1fa27bbf.chunk.js": "/react-sebsite/static/js/2.1fa27bbf.chunk.js",
-  "static/js/2.1fa27bbf.chunk.js.map": "/react-sebsite/static/js/2.1fa27bbf.chunk.js.map",
-  "runtime~main.js": "/react-sebsite/static/js/runtime~main.40a3cce3.js",
-  "runtime~main.js.map": "/react-sebsite/static/js/runtime~main.40a3cce3.js.map",
-  "static/css/main.3d1e72e7.chunk.css.map": "/react-sebsite/static/css/main.3d1e72e7.chunk.css.map",
-  "index.html": "/react-sebsite/index.html",
-  "precache-manifest.a8bd79580e2d09882b2ff7b86708db73.js": "/react-sebsite/precache-manifest.a8bd79580e2d09882b2ff7b86708db73.js",
-  "service-worker.js": "/react-sebsite/service-worker.js"
+  "main.css": "/react-website/static/css/main.3d1e72e7.chunk.css",
+  "main.js": "/react-website/static/js/main.84ed537a.chunk.js",
+  "main.js.map": "/react-website/static/js/main.84ed537a.chunk.js.map",
+  "static/js/1.54087e17.chunk.js": "/react-website/static/js/1.54087e17.chunk.js",
+  "static/js/1.54087e17.chunk.js.map": "/react-website/static/js/1.54087e17.chunk.js.map",
+  "static/js/2.1fa27bbf.chunk.js": "/react-website/static/js/2.1fa27bbf.chunk.js",
+  "static/js/2.1fa27bbf.chunk.js.map": "/react-website/static/js/2.1fa27bbf.chunk.js.map",
+  "runtime~main.js": "/react-website/static/js/runtime~main.221dd137.js",
+  "runtime~main.js.map": "/react-website/static/js/runtime~main.221dd137.js.map",
+  "static/css/main.3d1e72e7.chunk.css.map": "/react-website/static/css/main.3d1e72e7.chunk.css.map",
+  "index.html": "/react-website/index.html",
+  "precache-manifest.41fab0404d7ceba4cbeafe77ae616a93.js": "/react-website/precache-manifest.41fab0404d7ceba4cbeafe77ae616a93.js",
+  "service-worker.js": "/react-website/service-worker.js"
 }
